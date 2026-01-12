@@ -151,5 +151,3 @@ Threats were assessed using three dimensions:
 
 ---
 
-## 📁 Repository Structure (Suggested)
-
